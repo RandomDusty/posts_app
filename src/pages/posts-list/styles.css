@@ -1,0 +1,13 @@
+.postItem {
+	display: flex;
+	align-items: center;
+	margin: 2px auto;
+	padding: 10px;
+	box-shadow: 0.1rem 0.1rem 1.5rem rgba(0, 0, 0, 0.2);
+	overflow: hidden;
+	background-color: rgb(238, 237, 237);
+}
+
+.postName {
+	font-weight: 900;
+}
